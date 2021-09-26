@@ -1,0 +1,104 @@
+{"products": [
+    {
+    "id": 1,
+    "name": "M Lhotse Jacket",
+    "size": "Medium",
+    "color": "Green",
+    "category": "jackets",
+    "price": 199,
+    "stock": 12,
+    "img": "https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/600342_103_THE%20NORTH%20FACE_M%20LHOTSE%20JACKET.png"
+    
+    },
+    {
+    "id": 2,
+    "name": "M Welch Mountain Puffer Jacket",
+    "size": "Medium",
+    "color": "Black",
+    "category": "jackets",
+    "price": 170,
+    "stock": 8,
+    "img": "https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/600331_102_TIMBERLAND_M%20WELCH%20MOUNTAIN%20PUFFER%20JACKET.png"
+    },
+    {
+    "id": 3,
+    "name": "M Welch Mountain Puffer Jacket",
+    "size": "Larg",
+    "color": "Orange",
+    "category": "jackets",
+    "price": 220,
+    "stock": 18,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/600331_101_TIMBERLAND_M%20WELCH%20MOUNTAIN%20PUFFER%20JACKET.png"
+    },
+    {
+    "id": 4,
+    "name": "M Nimbus Pullover",
+    "size": "Medium",
+    "color": "Military Green",
+    "category": "jackets",
+    "price": 99,
+    "stock": 9,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/600251_102_CARHARTT_M%20NIMBUS%20PULLOVER.png"
+    },
+    {
+    "id": 5,
+    "name": "M Nimbus Pullover",
+    "size": "Small",
+    "color": "Black",
+    "category": "jackets",
+    "price": 100,
+    "stock": 10,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/600251_101_CARHARTT_M%20NIMBUS%20PULLOVER.png"
+    },
+    {
+    "id": 6,
+    "name": "M Michigan Coat",
+    "size": "Medium",
+    "color": "Black",
+    "category": "jackets",
+    "price": 156,
+    "stock": 15,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/318259_101_CARHARTT_M%20MICHIGAN%20COAT.png"
+    },
+    {
+    "id": 7,
+    "name": "M 1990 Mountain Q Jacket",
+    "size": "Medium",
+    "color": "White/Black",
+    "category": "jackets",
+    "price": 112,
+    "stock": 33,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/299970_103_THE%20NORTH%20FACE_M%201990%20MOUNTAIN%20Q%20JACKET.png"
+    },
+    {
+    "id": 8,
+    "name": "M Nsw Nike Air Wvn Hd Lnd Jkt",
+    "size": "Large",
+    "color": "Green",
+    "category": "jackets",
+    "price": 320,
+    "stock": 5,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/308683_101_VANS_M%20DRILL%20CHORE%20COAT%20MILITARY.png"
+    },
+    {
+    "id": 9,
+    "name": "M Athletics Terra",
+    "size": "Medium",
+    "color": "Black/Yellow",
+    "category": "jackets",
+    "price": 144,
+    "stock": 19,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/306156_101_NEW%20BALANCE_M%20ATHLETICS%20TERRA.png"
+    },
+    {
+    "id": 10,
+    "name": "M Car-Lux Hooded Jacket",
+    "size": "Small",
+    "color": "Grey",
+    "category": "jackets",
+    "price": 167,
+    "stock": 14,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/307511_101_CARHARTT_M%20CAR-LUX%20HOODED%20JACKET.png"
+    }
+    
+    ]}

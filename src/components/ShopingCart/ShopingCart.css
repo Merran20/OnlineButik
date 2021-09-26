@@ -1,0 +1,41 @@
+.li{
+    background-color:chocolate;
+    margin-top: 2%;
+    padding: 1%;
+    list-style-type:decimal;
+    width: 40%;
+    
+    transform: translate(72%,0px);
+}
+
+.listItem{
+    height: 200vh;
+}
+
+.li_parent{
+    display: flex;
+    
+}
+
+.img{
+    width: 100%;
+    margin-right: 2%;
+}
+
+.img img {
+    width: 100%;
+}
+
+.shiping{
+    text-align: center;
+}
+.shiping button {
+padding: 12px 150px;
+margin-top: 6%;
+border-radius: 20px;
+background-color: orange;
+color:black;
+box-shadow: 5px 5px 10px ;
+border:none;
+
+}

@@ -1,0 +1,10 @@
+.admin{
+    width:40%;
+    padding-left: 2%;
+}
+
+.category{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+}

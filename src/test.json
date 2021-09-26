@@ -1,0 +1,12 @@
+
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Almond Toe Court Shoes, Patent Black",
+        "category": "Womens Footwear",
+        "price": 99.00,
+        "stock": 5
+    }
+]
+}

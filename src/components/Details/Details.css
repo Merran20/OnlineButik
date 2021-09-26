@@ -1,0 +1,17 @@
+.details_parent{
+    background-color: bisque;
+    font-size: 35px;
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    list-style-type:none;
+}
+
+.details_img{
+    border: 1px solid black;
+    width: 45%;
+    padding: 10px;
+    
+}

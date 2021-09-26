@@ -1,0 +1,104 @@
+{"products": [
+    {
+    "id": 1,
+    "name": "Trefoil Tee",
+    "size": "Medium",
+    "color": "Red",
+    "category": "shirts",
+    "price": 19,
+    "stock": 12,
+    "img": "https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/275492_110_ADIDAS%20ORIGINALS_TREFOIL%20TEE.png"
+    
+    },
+    {
+    "id": 2,
+    "name": "Af1 Tee",
+    "size": "Medium",
+    "color": "Blue",
+    "category": "shirts",
+    "price": 17,
+    "stock": 8,
+    "img": "https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/300484_102_NIKE_AF1%20TEE.png"
+    },
+    {
+    "id": 3,
+    "name": "The Futura Is Mine Tee",
+    "size": "Small",
+    "color": "White",
+    "category": "shirts",
+    "price": 22,
+    "stock": 18,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/300485_102_NIKE_THE%20FUTURA%20IS%20MINE%20TEE.png"
+    },
+    {
+    "id": 4,
+    "name": "Tee",
+    "size": "Medium",
+    "color": "White",
+    "category": "shirts",
+    "price": 9,
+    "stock": 9,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/600064_101_ADIDAS%20ORIGINALS_TEE.png"
+    },
+    {
+    "id": 5,
+    "name": "Air Ermsy S/S Tee",
+    "size": "Large",
+    "color": "White",
+    "category": "shirts",
+    "price": 10,
+    "stock": 10,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/304075_101_NIKE_AIR%20ERMSY%20SS%20TEE.png"
+    },
+    {
+    "id": 6,
+    "name": "Trefoil Tee",
+    "size": "Medium",
+    "color": "Green",
+    "category": "shirts",
+    "price": 15,
+    "stock": 15,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/275492_106_ADIDAS%20ORIGINALS_TREFOIL%20TEE.png"
+    },
+    {
+    "id": 7,
+    "name": "Trefoil Black",
+    "size": "Black",
+    "color": "Green",
+    "category": "shirts",
+    "price": 11,
+    "stock": 33,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/275492_102_ADIDAS%20ORIGINALS_TREFOIL%20TEE.png"
+    },
+    {
+    "id": 8,
+    "name": "Trefol White",
+    "size": "Medium",
+    "color": "White",
+    "category": "shirts",
+    "price": 32,
+    "stock": 5,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/275492_101_ADIDAS%20ORIGINALS_TREFOIL%20TEE.png"
+    },
+    {
+    "id": 9,
+    "name": "Short Tee Set",
+    "size": "Medium",
+    "color": "White",
+    "category": "shirts",
+    "price": 14,
+    "stock": 19,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/319302_101_ADIDAS%20ORIGINALS_SHORT%20TEE%20SET_D1.png"
+    },
+    {
+    "id": 10,
+    "name": "Short Tee Set2",
+    "size": "Medium",
+    "color": "White",
+    "category": "shirts",
+    "price": 16,
+    "stock": 14,
+    "img":"https://www.sneakerspoint.se/INTERSHOP/static/WFS/Stadium-SwedenSneakers-Site/-/Stadium/sv_SE/Detail/302677_101_ADIDAS%20ORIGINALS_SHORT%20TEE%20SET_D4.png"
+    }
+    
+    ]}
